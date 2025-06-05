@@ -1,0 +1,58 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Nuevos criterios de valoración inmobiliaria en 2024",
+      "resumen": "El Colegio de Arquitectos Técnicos actualiza los criterios de valoración para adaptarse a las nuevas tendencias del mercado inmobiliario.",
+      "fecha": "2024-01-15",
+      "categoria": "Normativa",
+      "contenido": "Las nuevas directrices incluyen criterios de sostenibilidad energética, accesibilidad universal y nuevas tecnologías constructivas que impactan directamente en el valor de los inmuebles.",
+      "destacada": true
+    },
+    {
+      "id": 2,
+      "titulo": "El mercado inmobiliario en Madrid muestra signos de estabilización",
+      "resumen": "Los precios de la vivienda en la Comunidad de Madrid comienzan a estabilizarse tras varios años de crecimiento sostenido.",
+      "fecha": "2024-01-10",
+      "categoria": "Mercado",
+      "contenido": "Según los últimos datos del mercado, el precio medio por metro cuadrado se mantiene estable, lo que favorece la precisión en las tasaciones inmobiliarias.",
+      "destacada": false
+    },
+    {
+      "id": 3,
+      "titulo": "Digitalización en el proceso de tasación: herramientas 3D",
+      "resumen": "La incorporación de tecnología 3D y realidad virtual revoluciona el proceso tradicional de tasación inmobiliaria.",
+      "fecha": "2024-01-05",
+      "categoria": "Tecnología",
+      "contenido": "Las nuevas herramientas permiten realizar valoraciones más precisas y ofrecer un servicio más completo a los clientes, incluyendo visitas virtuales y mediciones exactas.",
+      "destacada": true
+    },
+    {
+      "id": 4,
+      "titulo": "Certificación energética: nuevo factor clave en valoraciones",
+      "resumen": "La eficiencia energética se convierte en un factor determinante en el valor de mercado de los inmuebles.",
+      "fecha": "2023-12-28",
+      "categoria": "Sostenibilidad",
+      "contenido": "Los inmuebles con certificación energética A o B experimentan una revalorización significativa, siendo fundamental su consideración en tasaciones actuales.",
+      "destacada": false
+    },
+    {
+      "id": 5,
+      "titulo": "Formación continua: curso especializado en tasación de patrimonio histórico",
+      "resumen": "Nueva especialización para arquitectos técnicos en valoración de inmuebles con valor patrimonial y histórico.",
+      "fecha": "2023-12-20",
+      "categoria": "Formación",
+      "contenido": "El curso aborda las particularidades de la tasación de inmuebles históricos, incluyendo aspectos normativos, técnicos y de conservación patrimonial.",
+      "destacada": false
+    },
+    {
+      "id": 6,
+      "titulo": "Impacto de la ubicación en las tasaciones urbanas",
+      "resumen": "Análisis detallado de cómo factores como transporte público, servicios y zonas verdes influyen en el valor inmobiliario.",
+      "fecha": "2023-12-15",
+      "categoria": "Análisis",
+      "contenido": "Un estudio reciente demuestra que la proximidad al transporte público puede incrementar el valor de un inmueble hasta en un 15%, factor crucial en tasaciones urbanas.",
+      "destacada": true
+    }
+  ]
+}
